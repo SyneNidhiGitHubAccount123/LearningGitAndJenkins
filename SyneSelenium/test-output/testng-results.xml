@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50786" started-at="2023-06-15T08:26:57Z" finished-at="2023-06-15T08:27:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50786" started-at="2023-06-15T08:26:57Z" finished-at="2023-06-15T08:27:48Z">
+      <class name="Day3.TestAction">
+        <test-method status="PASS" signature="ActionTest()[pri:0, instance:Day3.TestAction@6a4f787b]" name="ActionTest" duration-ms="50712" started-at="2023-06-15T13:56:57Z" finished-at="2023-06-15T13:57:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ActionTest -->
+      </class> <!-- Day3.TestAction -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
