@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="2410" started-at="2023-07-02T12:37:11Z" finished-at="2023-07-02T12:37:14Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="2410" started-at="2023-07-02T12:37:11Z" finished-at="2023-07-02T12:37:14Z">
+      <class name="Basics.GetAllStudentsTest">
+        <test-method status="PASS" signature="getAllStudents()[pri:0, instance:Basics.GetAllStudentsTest@6a78afa0]" name="getAllStudents" duration-ms="1531" started-at="2023-07-02T18:07:11Z" finished-at="2023-07-02T18:07:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllStudents -->
+      </class> <!-- Basics.GetAllStudentsTest -->
+      <class name="CrudOperation.PutRequestTest">
+        <test-method status="PASS" signature="name()[pri:0, instance:CrudOperation.PutRequestTest@6989da5e]" name="name" duration-ms="55" started-at="2023-07-02T18:07:14Z" finished-at="2023-07-02T18:07:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- name -->
+      </class> <!-- CrudOperation.PutRequestTest -->
+      <class name="POJO1.ProductTest">
+        <test-method status="PASS" signature="testProduct()[pri:0, instance:POJO1.ProductTest@139982de]" name="testProduct" duration-ms="8" started-at="2023-07-02T18:07:14Z" finished-at="2023-07-02T18:07:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProduct -->
+      </class> <!-- POJO1.ProductTest -->
+      <class name="CrudOperation.DeleteRequetTest">
+        <test-method status="PASS" signature="deleteRequest()[pri:0, instance:CrudOperation.DeleteRequetTest@10683d9d]" name="deleteRequest" duration-ms="31" started-at="2023-07-02T18:07:13Z" finished-at="2023-07-02T18:07:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteRequest -->
+      </class> <!-- CrudOperation.DeleteRequetTest -->
+      <class name="Pojo.ProductTest">
+        <test-method status="PASS" signature="prodctTest()[pri:0, instance:Pojo.ProductTest@385c9627]" name="prodctTest" duration-ms="245" started-at="2023-07-02T18:07:14Z" finished-at="2023-07-02T18:07:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prodctTest -->
+      </class> <!-- Pojo.ProductTest -->
+      <class name="CrudOperation.GetReqTest">
+        <test-method status="PASS" signature="getStudent(org.testng.ITestContext)[pri:0, instance:CrudOperation.GetReqTest@3fc2959f]" name="getStudent" duration-ms="79" started-at="2023-07-02T18:07:13Z" finished-at="2023-07-02T18:07:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@18025ced]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStudent -->
+      </class> <!-- CrudOperation.GetReqTest -->
+      <class name="CrudOperation.PostReqTest">
+        <test-method status="PASS" signature="postReq()[pri:0, instance:CrudOperation.PostReqTest@5aa9e4eb]" name="postReq" duration-ms="450" started-at="2023-07-02T18:07:13Z" finished-at="2023-07-02T18:07:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postReq -->
+      </class> <!-- CrudOperation.PostReqTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
